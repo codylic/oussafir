@@ -1,0 +1,51 @@
+body
+{
+    background: url("../images/OussafirFondBis.png");
+	background-repeat : no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+#Main
+{
+	background-color : rgba(20,20,20,0.5);
+	margin : 5%;
+	padding : 5%;
+			
+}
+
+
+#Content
+{
+	border-left: thick solid white;
+	border-left-width: 2px;
+	display : inline-block;
+	vertical-align: top;
+	color: white;
+	font-family: Prata;
+	margin: 0px;
+	margin-left : 3px;
+	text-align:justify;
+	white-space: initial;
+	word-wrap: break-word;
+	width:85%;
+	padding : 5%;
+	min-height : 300px;
+
+}
+#Question, #Answer
+{
+	color: white;
+	font-family: Lucida Sans Unicode;
+	margin : auto;
+	width : auto;
+	
+}
+#Question
+{
+	color:rgb(255,92,92);
+	font-weight : bold;
+	
+}
+ 
+ 

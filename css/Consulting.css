@@ -1,0 +1,31 @@
+body
+{
+    background: url("../images/OussafirFondBis.png");
+	background-repeat : no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+#Main
+{
+	background-color : rgba(20,20,20,0.5);
+	height : 600px;
+	margin : 5%;
+	padding : 5%;
+	color : white;		
+	font-family: Prata;
+}
+
+iframe
+{
+	width : 90%;
+	height : 90%;
+	margin: auto;
+	display : block;
+	text-align : center;
+	background-color : white;
+}
+
+
+ 
+ 
